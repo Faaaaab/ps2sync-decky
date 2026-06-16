@@ -1,0 +1,7 @@
+{
+  "name": "PS2Sync",
+  "author": "Faaaaab",
+  "version": "1.0.0",
+  "description": "Synchronize PS2 saves between PCSX2 and SD2PSX (MMCE) with console logging",
+  "module": "ps2sync"
+}
